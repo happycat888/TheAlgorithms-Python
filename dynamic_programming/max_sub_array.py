@@ -4,8 +4,11 @@ author : Mayank Kumar Jha (mk9440)
 from __future__ import print_function
 
 import time
-import matplotlib.pyplot as plt
 from random import randint
+
+import matplotlib.pyplot as plt
+
+
 def find_max_sub_array(A,low,high):
     if low==high:
         return low,high,A[low]

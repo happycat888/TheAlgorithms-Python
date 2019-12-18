@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 
+import argparse
 #
 # Sort large text files in a minimum amount of memory
 #
 import os
-import argparse
+
 
 class FileSplitter(object):
     BLOCK_FILENAME_FORMAT = 'block_{0}.dat'

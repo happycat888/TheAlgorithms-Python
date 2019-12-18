@@ -1,11 +1,12 @@
 from __future__ import print_function
+
 from random import randint
 from tempfile import TemporaryFile
+
 import numpy as np
 
 
-
-def _inPlaceQuickSort(A,start,end):  
+def _inPlaceQuickSort(A,start,end):
     count = 0
     if start<end:
         pivot=randint(start,end)

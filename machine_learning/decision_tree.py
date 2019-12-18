@@ -7,6 +7,7 @@ from __future__ import print_function
 
 import numpy as np
 
+
 class Decision_Tree:
     def __init__(self, depth = 5, min_leaf_size = 5):
         self.depth = depth

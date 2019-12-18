@@ -1,5 +1,8 @@
 from __future__ import print_function
-import sys, rsa_key_generator as rkg, os
+
+import os
+import rsa_key_generator as rkg
+import sys
 
 DEFAULT_BLOCK_SIZE = 128
 BYTE_SIZE = 256

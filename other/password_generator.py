@@ -1,6 +1,7 @@
 from __future__ import print_function
-import string
+
 import random
+import string
 
 letters = [letter for letter in string.ascii_letters]
 digits = [digit for digit in string.digits]

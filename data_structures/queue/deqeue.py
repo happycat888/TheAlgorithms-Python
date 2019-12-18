@@ -1,10 +1,11 @@
 from __future__ import print_function
-# Python code to demonstrate working of 
-# extend(), extendleft(), rotate(), reverse()
- 
+
 # importing "collections" for deque operations
 import collections
- 
+
+# Python code to demonstrate working of
+# extend(), extendleft(), rotate(), reverse()
+
 # initializing deque
 de = collections.deque([1, 2, 3,])
  

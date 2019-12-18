@@ -1,6 +1,7 @@
 from __future__ import print_function
 
 import sys
+
 '''
 Dynamic Programming
 Implementation of Matrix Chain Multiplication

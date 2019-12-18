@@ -1,6 +1,8 @@
 #-.- coding: latin-1 -.-
 from __future__ import print_function
+
 from math import sqrt
+
 '''
 Amicable Numbers
 Problem 21

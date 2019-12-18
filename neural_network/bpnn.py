@@ -19,8 +19,8 @@ Date: 2017.11.23
 
 '''
 
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
 
 
 def sigmoid(x):

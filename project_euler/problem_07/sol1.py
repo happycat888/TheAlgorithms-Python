@@ -4,7 +4,10 @@ By listing the first six prime numbers:
 What is the Nth prime number?
 '''
 from __future__ import print_function
+
 from math import sqrt
+
+
 def isprime(n):
     if (n==2):
         return True

@@ -1,6 +1,8 @@
 #-.- coding: latin-1 -.-
 from __future__ import print_function
+
 from math import factorial
+
 '''
 Combinatoric selections
 Problem 53

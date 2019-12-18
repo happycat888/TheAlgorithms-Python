@@ -24,8 +24,9 @@ Usage:
 Credits: This code was written by editing the code from http://www.lpb-riannetrujillo.com/blog/python-fractal/
 
 '''
-import turtle
 import sys
+import turtle
+
 PROGNAME = 'Sierpinski Triangle'
 if len(sys.argv) !=2: 
     raise Exception('right format for using this script: $python fractals.py <int:depth_for_fractal>')

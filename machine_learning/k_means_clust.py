@@ -47,8 +47,9 @@ Usage:
   
 '''
 from __future__ import print_function
-from sklearn.metrics import pairwise_distances
+
 import numpy as np
+from sklearn.metrics import pairwise_distances
 
 TAG = 'K-MEANS-CLUST/ '
 

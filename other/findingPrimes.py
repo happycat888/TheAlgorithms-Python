@@ -4,8 +4,9 @@
 '''
 from __future__ import print_function
 
-
 from math import sqrt
+
+
 def SOE(n):
     check = round(sqrt(n)) #Need not check for multiples past the square root of n
     

@@ -1,7 +1,8 @@
-from collections import deque
-import random as rand
 import math as math
+import random as rand
 import time
+from collections import deque
+
 
 # the dfault weight is 1 if not assigend but all the implementation is weighted
 

@@ -1,5 +1,7 @@
 from __future__ import print_function
-import sys, random
+
+import random
+import sys
 
 LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 

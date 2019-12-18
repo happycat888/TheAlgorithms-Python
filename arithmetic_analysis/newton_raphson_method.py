@@ -1,8 +1,10 @@
 # Implementing Newton Raphson method in Python
 # Author: Haseeb
 
-from sympy import diff
 from decimal import Decimal
+
+from sympy import diff
+
 
 def NewtonRaphson(func, a):
     ''' Finds root from the point 'a' onwards by Newton-Raphson method '''

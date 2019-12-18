@@ -7,6 +7,7 @@ from __future__ import print_function, division
 
 import math
 
+
 def isprime(no):
     if(no==2):
         return True

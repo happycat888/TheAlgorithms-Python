@@ -10,6 +10,7 @@ Find the total no of ways in which the tasks can be distributed.
 
 """
 from __future__ import print_function
+
 from collections import defaultdict
 
 

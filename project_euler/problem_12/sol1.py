@@ -1,5 +1,7 @@
 from __future__ import print_function
+
 from math import sqrt
+
 '''
 Highly divisible triangular numbers
 Problem 12

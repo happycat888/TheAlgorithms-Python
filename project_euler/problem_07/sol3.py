@@ -4,9 +4,12 @@ By listing the first six prime numbers:
 What is the Nth prime number?
 '''
 from __future__ import print_function
+
+import itertools
 # from Python.Math import PrimeCheck
 import math
-import itertools
+
+
 def primeCheck(number):
     if number % 2 == 0 and number > 2:
         return False

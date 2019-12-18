@@ -2,6 +2,7 @@
 Implementation of gradient descent algorithm for minimizing cost of a linear hypothesis function.
 """
 from __future__ import print_function, division
+
 import numpy
 
 # List of input, output pairs

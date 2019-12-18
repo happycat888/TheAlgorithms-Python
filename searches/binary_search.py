@@ -10,6 +10,7 @@ For manual testing run:
 python binary_search.py
 """
 from __future__ import print_function
+
 import bisect
 
 try:

@@ -143,8 +143,6 @@ def primeFactorization(number):
         returns a list of the prime number factors of 'number'
     """
 
-    import math    # for function sqrt
-    
     # precondition
     assert isinstance(number,int) and number >= 0, \
     "'number' must been an int and >= 0"
@@ -497,8 +495,6 @@ def getDivisors(n):
     # precondition
     assert isinstance(n,int) and (n >= 1), "'n' must been int and >= 1"
 
-    from math import sqrt        
-        
     ans = [] # will be returned.
     
     for divisor in range(1,n+1):

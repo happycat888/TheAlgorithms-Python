@@ -1,5 +1,6 @@
-import string
 import itertools
+import string
+
 
 def chunker(seq, size):
     it = iter(seq)

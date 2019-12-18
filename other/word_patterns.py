@@ -1,5 +1,8 @@
 from __future__ import print_function
-import pprint, time
+
+import pprint
+import time
+
 
 def getWordPattern(word):
     word = word.upper()

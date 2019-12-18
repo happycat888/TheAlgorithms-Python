@@ -1,5 +1,7 @@
 from __future__ import print_function
+
 import math
+
 
 def rearrange(bitString32):
 	"""[summary]
